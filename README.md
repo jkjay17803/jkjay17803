@@ -21,4 +21,6 @@ I’m a university student who is learning programming to turn my ideas into rea
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jkjay17803&theme=dark&bg_color=00000000&icon_color=ffffff&text_color=ffffff)
 
+![WakaTime stats](https://wakatime.com/share/@사용자명/프로젝트.svg)
+
 
