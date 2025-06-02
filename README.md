@@ -4,11 +4,11 @@ I’m a university student who is learning programming to turn my ideas into rea
 
 ## 🌱 studying..
 - Java, Maven
-- c, c++
+- <span style=color:orange>c</span>, c++
 - python
 - minercaft Plugins (Paper)
 
-## 🔗 link
+## 📂 Activity history
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkjay17803&show_icons=true&theme=tokyonight)
 
