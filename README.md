@@ -18,6 +18,7 @@ I’m a university student who is learning programming to turn my ideas into rea
 
 
 ## 📂 Activity history
+
 &nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkjay17803&show_icons=true&theme=dark&bg_color=00000000&icon_color=ffffff&text_color=ffffff)
 
