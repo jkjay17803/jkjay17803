@@ -18,9 +18,8 @@ I’m a university student who is learning programming to turn my ideas into rea
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkjay17803&show_icons=true&theme=dark&bg_color=00000000&icon_color=ffffff&text_color=ffffff)
 
+&nbsp;
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jkjay17803&theme=dark&bg_color=00000000&icon_color=ffffff&text_color=ffffff)
-
-![WakaTime stats](https://wakatime.com/share/@jkjay17803/프로젝트.svg)
 
 
