@@ -21,6 +21,6 @@ I’m a university student who is learning programming to turn my ideas into rea
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jkjay17803&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jkjay17803&theme=react-dark)
 
