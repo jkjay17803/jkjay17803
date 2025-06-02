@@ -20,3 +20,4 @@ I’m a university student who is learning programming to turn my ideas into rea
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jkjay17803&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=jkjay17803&theme=dark)
