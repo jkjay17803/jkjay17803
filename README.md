@@ -4,9 +4,9 @@ I’m a university student who is learning programming to turn my ideas into rea
 
 ## 🌱 studying..
 - Java, Maven
-- <span style=color:orange>c</span>, c++
-- python
-- minercaft Plugins (Paper)
+- C, C++
+- Python
+- Minecraft Plugins (Paper)
 
 ## 📂 Activity history
 
