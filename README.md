@@ -4,8 +4,6 @@ I’m a university student who is learning programming to turn my ideas into rea
 
 ## 🌱 Studying..
 - Java, Maven
-- C, C++
-- Python
 - Minecraft Plugins (Paper)
 
 
